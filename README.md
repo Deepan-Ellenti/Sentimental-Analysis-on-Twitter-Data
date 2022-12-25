@@ -1,8 +1,8 @@
- Sentimental-Analysis-on-Twitter-Data
+ # Sentimental-Analysis-on-Twitter-Data
 
 The purpose of the project is to mine the sentiments of tweets. In this project we have used data scrapped from twitter using tweepy API.
 
-**#About the Dataset**
+# About the Dataset
 
 Our dataset contains 50k data points. We found that there is class imbalance in our data. So we tried different statistical methods like oversampling, undersampling and
 SMOTE method to balance the class distribution.
